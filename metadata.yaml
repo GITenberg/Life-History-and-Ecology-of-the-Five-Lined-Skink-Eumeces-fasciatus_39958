@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/36389
     wikipedia: http://en.wikipedia.org/wiki/Henry_Sheldon_Fitch
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39958#Life-History-and-Ecology-of-the-Five-Lined-Skink-Eumeces-fasciatus
 gutenberg_issued: '2012-06-10'
 gutenberg_type: Text
 identifiers:
